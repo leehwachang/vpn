@@ -17,7 +17,7 @@ h3{
 
 .email{
   text-align: right;
-  font-size: small
+  font-size: small;
 }
 #제작자{
   text-align: right;
@@ -28,3 +28,22 @@ h3{
   color: #ff00ff;
   font-size: 14px
  }
+.box{
+  background-color: #7FFFD4;
+  width: 70px;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 0.3%;
+  padding-bottom: 0.3%;
+  border: 2px solid #006400;
+  display: inline-block;
+  position: relative;
+  bottom:40px;
+  left: 50px;
+  text-decoration: none;
+}
+.html{
+  font-size: small;
+  background-color: #ff9999;
+  width: 167px;
+}
